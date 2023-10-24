@@ -145,7 +145,7 @@ img div {
    &copy;copyright all rights reserved 2023<br>
   <div>
     <div class="topnav">
-      <a href="https://www.linkedin.com/in/khaliqfarah/" target="_blank">Contact Author</a>
+      <a href="https://www.linkedin.com/in/khaliqfarah/">Contact Author</a>
       <a href="https://docs.google.com/document/d/1dNuBiFbPIEPOHy7NwFCEV4wKTefptyLxinssKkBGnQk/edit?usp=sharing">Resume</a>
       <a href="https://iodinesoftware.com/about-us/">About Iodine</a>
 </footer>
